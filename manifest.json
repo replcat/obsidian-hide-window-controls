@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-hide-window-controls",
+	"name": "Hide Window Controls",
+	"version": "0.1.0",
+	"minAppVersion": "0.15.0",
+	"description": "Remove the close / minimise / resize buttons in macOS (only).",
+	"author": "replcat",
+	"authorUrl": "https://github.com/replcat",
+	"isDesktopOnly": true
+}
